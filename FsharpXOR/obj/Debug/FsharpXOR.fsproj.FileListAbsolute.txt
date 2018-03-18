@@ -1,0 +1,12 @@
+C:\Users\niels\source\repos\FsharpXOR\FsharpXOR\bin\Debug\FsharpXOR.exe.config
+C:\Users\niels\source\repos\FsharpXOR\FsharpXOR\bin\Debug\FsharpXOR.XML
+C:\Users\niels\source\repos\FsharpXOR\FsharpXOR\bin\Debug\FsharpXOR.exe
+C:\Users\niels\source\repos\FsharpXOR\FsharpXOR\bin\Debug\FsharpXOR.pdb
+C:\Users\niels\source\repos\FsharpXOR\FsharpXOR\bin\Debug\encog-core-cs.dll
+C:\Users\niels\source\repos\FsharpXOR\FsharpXOR\bin\Debug\FSharp.Core.dll
+C:\Users\niels\source\repos\FsharpXOR\FsharpXOR\bin\Debug\System.ValueTuple.dll
+C:\Users\niels\source\repos\FsharpXOR\FsharpXOR\bin\Debug\FSharp.Core.xml
+C:\Users\niels\source\repos\FsharpXOR\FsharpXOR\obj\Debug\FsharpXOR.fsprojResolveAssemblyReference.cache
+C:\Users\niels\source\repos\FsharpXOR\FsharpXOR\obj\Debug\FsharpXOR.fsproj.CopyComplete
+C:\Users\niels\source\repos\FsharpXOR\FsharpXOR\obj\Debug\FsharpXOR.exe
+C:\Users\niels\source\repos\FsharpXOR\FsharpXOR\obj\Debug\FsharpXOR.pdb
